@@ -47,7 +47,7 @@ const Footer = () => {
         </IconList>
         <IconList>
           <IconLink
-            href="https://twitter.com/dimola_"
+            href="https://twitter.com/bosiipo"
             backgroundColor="#44bcdd"
             target="_blank"
           >
