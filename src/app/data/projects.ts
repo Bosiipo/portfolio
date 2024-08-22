@@ -1,7 +1,7 @@
 import musicBox from "../assets/images/music-box.png";
 // import deepDiive from '../assets/images/deepdiive.png';
 import filmVibe from "../assets/images/movie-info.png";
-import koroPay from "../assets/images/koroPay.png";
+// import koroPay from "../assets/images/koroPay.png";
 import thriftSage from "../assets/images/thriftSage.png";
 import shoppingList from "../assets/images/shoppingList.png";
 import oneCentral from "../assets/images/oneCentral.png";
